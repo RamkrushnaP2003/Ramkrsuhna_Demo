@@ -1,2 +1,2 @@
-# Ramkrsuhna_Demo
+# Ramkrushna_Demo
 This is demo for git &amp; GitHub Class.
